@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://konfigure.xyz/logo-256.png" alt="konfigure" /><h1>Konfigure</h1></div>
+<div style="text-align:center"><a href="https://konfigure.xyz?utm=github"><img src="https://konfigure.xyz/logo-256.png" alt="konfigure" /><h1>Konfigure</h1></a></div>
 
 ## Built for your team (developers, product managers, copyrighters)
 
