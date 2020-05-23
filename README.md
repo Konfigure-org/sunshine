@@ -2,4 +2,4 @@
 
 ## Built for your team (developers, product managers, copyrighters)
 
-Konfigure is CMS (Configurations Management System) for you applications/websites, easily create feature flags, configurations, theme, static json data etc. and embed in your applications
+Konfigure is CMS (Configurations Management System) for your applications/websites, easily create feature flags, configurations, theme, static json data etc. and embed in your applications
